@@ -1,0 +1,14 @@
+{
+  "name": "indexnow-pinger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "cors": "^2.8.5"
+  }
+}
